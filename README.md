@@ -1,10 +1,10 @@
 ### Hello there 👋
-i don't like cats 🐈
+i don't like cats -> 🐈
 
 - 🔭 I’m currently working on a Rimworld Clone
 - 🌱 I’m currently learning Godot Game Engine and GDScript
 - 👯 I’m looking to collaborate on building a better future to mankind
-- 🤔 I’m looking for help with data structures
+- 🤔 I’m looking for help with mental health
 - 💬 Ask me about stoic phylosophy
 - 📫 How to reach me: you can't! hahaha
 - 😄 Pronouns: We/Comrade
