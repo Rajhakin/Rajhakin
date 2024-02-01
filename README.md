@@ -7,7 +7,6 @@ i don't like cats -> 🐈🚫🙅‍♂️
 - 🤔 I’m looking for help with mental health
 - 💬 Ask me about stoic phylosophy
 - 📫 How to reach me: you can't! hahaha
-- ✊ Pronouns: We/Comrade
 - ⚡ Fun fact: Life is a Sandbox, not a Campaign
 
 <!--
