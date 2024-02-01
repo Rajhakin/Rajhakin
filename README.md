@@ -1,5 +1,5 @@
 ### Hello there 👋
-i don't like cats -> 🐈🚫🙅‍♂️
+i don't like cats -> 🐈🙅‍♂️
 
 - 🔭 I’m currently working on a Rimworld Clone
 - 🌱 I’m currently learning Godot Game Engine and GDScript
